@@ -1,2 +1,6 @@
-# Trabalhos-I
-Este repositório contém os trabalhos do ensino médio criados durante o meu aprendizado dentro de HTML, CSS, JavaScrit e Design Digital
+# Datalytics
+Este repositório é sobre o site criado por mim e integrantes do meu grupo do interdisciplinar no primeiro ano do ensino médio.
+Membros:
+Felipe Thaylan - Conteúdo e Design
+Daniel Vieira - Programação
+Giovanny Bonfim - Manual
