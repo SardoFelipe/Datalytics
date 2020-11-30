@@ -3,4 +3,4 @@ Este repositório é sobre o site criado por mim e integrantes do meu grupo do i
 Membros:
 Felipe Thaylan - Conteúdo e Design
 Daniel Vieira - Programação
-Giovanny Bonfim - Manual
+Kaua Oliveira - Conteúdo
